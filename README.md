@@ -1,4 +1,4 @@
-<h1 align="center">Hey 💻 there, I'm Drew Anello</h1>
+<h1 align="center">Hey there 💻, I'm Drew Anello</h1>
 <h3 align="center">I'm a NYC based full stack developer who is detail oriented, loves learning and was a professional musician for 7 years!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drew-anello" alt="drew-anello" /></a> </p>
