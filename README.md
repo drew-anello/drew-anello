@@ -1,7 +1,7 @@
-<h1 align="center">Hey there 💻, I'm Drew Anello</h1>
-<h3 align="center">I'm a NYC based full stack developer who is detail oriented, loves learning and was a professional musician for 7 years!</h3>
+<h1 align="center">  💻Hey there, I'm Drew Anello 💻</h1>
+<h3 align="center">I'm a NYC based full stack developer who is detail oriented, loves learning and was a professional musician for 7 years! ![prince](https://user-images.githubusercontent.com/106771036/186275560-b0c529a1-ffa6-43fb-ae88-259ea18b1784.gif)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drew-anello" alt="drew-anello" /></a> </p>
+</h3>
 
 <p align="left"> <a href="https://twitter.com/drew_anello" target="blank"><img src="https://img.shields.io/twitter/follow/drew_anello?logo=twitter&style=for-the-badge" alt="drew_anello" /></a> </p>
 
