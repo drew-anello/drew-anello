@@ -1,7 +1,9 @@
-<h1 align="center">  💻Hey there, I'm Drew Anello 💻</h1>
-<h3 align="center">I'm a NYC based full stack developer who is detail oriented, loves learning and was a professional musician for 7 years! ![prince](https://user-images.githubusercontent.com/106771036/186275560-b0c529a1-ffa6-43fb-ae88-259ea18b1784.gif)
+![Drew Anello](https://user-images.githubusercontent.com/106771036/186283552-c7c42086-bace-4626-b9ba-0d70b0313339.jpg)
 
-</h3>
+
+<h3 align="left"> 👋 Hey there, I'm Drew Anello <img src="https://user-images.githubusercontent.com/106771036/186277255-9f0fbcb4-c851-476d-90f5-35e84752103f.gif" style="height:60px;width:60px;"></h1>
+
+- I'm a full stack developer and musician who is detail oriented, loves learning new things and has an unhealthy obsession with seltzer.
 
 <p align="left"> <a href="https://twitter.com/drew_anello" target="blank"><img src="https://img.shields.io/twitter/follow/drew_anello?logo=twitter&style=for-the-badge" alt="drew_anello" /></a> </p>
 
@@ -17,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/drew-anello1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@drew-anello1" height="30" width="40" /></a>
 <a href="https://twitter.com/drew_anello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drew_anello" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/drew-anello-4718ab169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/drew-anello-4718ab169/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/drew-anello-4718ab169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drew-anello-4718ab169" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,5 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drew-anello&show_icons=true&locale=en" alt="drew-anello" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drew-anello&" alt="drew-anello" /></p>
+
+                                                                            
 
 
