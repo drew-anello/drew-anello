@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [WOW generator](https://github.com/drew-anello/WOW-generator)
 
-- 🌱 I’m currently learning **React, Python, SQL**
+- 🌱 I’m currently learning **React, Python, SQL, MongoDB**
 
 - 👨‍💻 All of my projects are available at [drew-anello.github.io](drew-anello.github.io)
 
