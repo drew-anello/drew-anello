@@ -1,4 +1,5 @@
-![Drew Anello](https://user-images.githubusercontent.com/106771036/186283552-c7c42086-bace-4626-b9ba-0d70b0313339.jpg)
+![Drew Anello-2](https://user-images.githubusercontent.com/106771036/187731419-40553c16-4784-4aab-907b-f4485a4862d0.jpg)
+
 
 
 <h3 align="left"> 👋 Hey there, I'm Drew Anello <img src="https://user-images.githubusercontent.com/106771036/186277255-9f0fbcb4-c851-476d-90f5-35e84752103f.gif" style="height:60px;width:60px;"></h1>
@@ -30,5 +31,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drew-anello&" alt="drew-anello" /></p>
 
                                                                             
-
-
