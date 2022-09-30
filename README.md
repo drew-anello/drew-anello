@@ -2,7 +2,7 @@
 
 
 
-<h3 align="left"> 👋 Hey there, I'm Drew Anello <img src="https://user-images.githubusercontent.com/106771036/186277255-9f0fbcb4-c851-476d-90f5-35e84752103f.gif" style="height:60px;width:60px;"></h1>
+<h3 align="left"> 👋 Hey there, I'm Drew Anello </h1>
 
 - I'm a full stack developer and musician who is detail oriented, loves learning new things and has an unhealthy obsession with seltzer.
 
