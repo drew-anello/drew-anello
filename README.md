@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React, Python, SQL, MongoDB**
 
-- 👨‍💻 All of my projects are available at [drew-anello.github.io](drew-anello.github.io)
+- 👨‍💻 All of my projects are available at https://drew-anello.github.io
 
 - 📫 How to reach me **drew.anello@gmail.com**
 
