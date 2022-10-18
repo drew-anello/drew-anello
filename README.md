@@ -8,10 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/drew_anello" target="blank"><img src="https://img.shields.io/twitter/follow/drew_anello?logo=twitter&style=for-the-badge" alt="drew_anello" /></a> </p>
 
-- 🔭 I’m currently working on [WOW generator](https://github.com/drew-anello/WOW-generator)
-
-- 🌱 I’m currently learning **React, Python, SQL, MongoDB**
-
 - 👨‍💻 All of my projects are available at https://drew-anello.github.io
 
 - 📫 How to reach me **drew.anello@gmail.com**
