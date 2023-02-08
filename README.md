@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Drew 🎸</h1>
+<h1 align="center">Hey 👋 I'm Drew 🎸</h1>
 <h3 align="center">I'm a musician turned Full Stack Developer Based in NYC who has an unhealthy obsession with seltzer and coffee</h3>
 
 <p align="center"> <a href="https://twitter.com/drew_anello" target="blank"><img src="https://img.shields.io/twitter/follow/drew_anello?logo=twitter&style=for-the-badge" alt="drew_anello" /></a> </p>
