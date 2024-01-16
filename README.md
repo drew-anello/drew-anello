@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Drew 🎸</h1>
 <h3 align="center">I'm a musician turned Software Engineer based in NYC who has an unhealthy obsession with seltzer</h3>
 
-<p align="center"> <a href="https://twitter.com/drew_anello" target="blank"><img src="https://img.shields.io/twitter/follow/drew_anello?logo=twitter&style=for-the-badge" alt="drew_anello" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [drew-anello.github.io](drew-anello.github.io)
 
@@ -10,7 +10,7 @@
 - 📫 How to reach me **drew.anello@gmail.com**
 
 <p align="left">
-<a href="https://twitter.com/drew_anello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drew_anello" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/drew-anello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drew-anello" height="30" width="40" /></a>
 </p>
 
